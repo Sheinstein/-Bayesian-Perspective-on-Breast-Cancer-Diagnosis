@@ -4,7 +4,7 @@
 
 This project aims at drawing meaningful  `Bayesian Inferences` on a `Logistic Regression` Model for positive cancer diagnosis in patients with diagnosed with `tumors`.
 
-![alt tag](https://github.com/Sheinstein/-Bayesian-Perspective-on-Breast-Cancer-Diagnosis/blob/main/Breast%20Cancer.png)
+![alt tag](https://github.com/Sheinstein/-Bayesian-Perspective-on-Breast-Cancer-Diagnosis/blob/main/bresast:c.png)
 Image of a breast tumor
 
 
