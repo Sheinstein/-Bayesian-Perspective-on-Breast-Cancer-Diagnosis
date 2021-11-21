@@ -20,7 +20,7 @@ Inspired by Kaiser's goal of evaluating a prediction model, I had my project cre
 The  data set used in the project can be found on this `link`[https://github.com/Sheinstein/-Bayesian-Perspective-on-Breast-Cancer-Diagnosis/blob/main/breastcancer.csv]
 
 
-## Jupyter Notebook
+## Google Colab Notebook
 
 The notebook of the several experiments perfomed to can be found `here`[https://colab.research.google.com/drive/1hu6243boRjsLC4i54Dh1DEKeIOSHDcDl?usp=sharing]
 
